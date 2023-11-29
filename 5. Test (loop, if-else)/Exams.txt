@@ -1,0 +1,27 @@
+buat sebuah menu untuk membuat list makanan beserta harganya, nanti user akan memilih makanan sesuai kode yang disediakan
+kalau bisa milih menu 10
+kalau input selain kode yg ada output "kode salah, ulangi lagi" 20
+kalau perhitungan benar 10
+
+do while
+if else
+
+p = perhitungan sementara
+s = selesai (total)
+
+
+buat sebuah menu, berisi 3 list menu. list 1 menghitung luas trapesium
+list 2 menghitung volume balok, list 3 exit program
+input hanya 1/2/3
+selain itu program selesai
+
+kalau bisa milih menu 20
+kalau ada perhitungan trapesium 10
+kalau ada perhitugan balok 103
+kalaun ada input selain 1/2/3 keluar "output salah, ulangi program"
+kalau input 3 keluar 15
+
+if else
+do while 
+swtich case
+	
